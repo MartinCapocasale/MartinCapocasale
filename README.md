@@ -1,6 +1,12 @@
 ### Hi there,I'm Martin 👋👋
 
 - 🔭 I’m currently working on Python 
+- 🌱 I’m currently learning Javascript
+
+- :bulb: **My Reseach Interest**:
+ - Network Automation
+ - Netmiko
+ - Nornir
 
  <div>
   <a href="https://github.com/MartinCapocasale">
@@ -17,7 +23,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
