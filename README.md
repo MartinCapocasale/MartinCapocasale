@@ -1,7 +1,6 @@
 ### Hi there,I'm Martin 👋👋
 
 - 🔭 I’m currently working on Python 
-- 🌱 I’m currently learning Everything
 <tr>
 		<td>
 				<b>:bulb: My Reseach Interest:<b>
