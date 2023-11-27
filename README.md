@@ -21,7 +21,6 @@
   <img align="center" alt="Caique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Caique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Caique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Caique-yoda" src="https://gif-avatars.com/img/150x150/sinbad.gif">
 </div>
 <!--
 **MartinCapocasale/MartinCapocasale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
