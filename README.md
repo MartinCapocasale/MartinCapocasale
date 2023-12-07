@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Python 
 <tr>
 		<td>
-				<b>:bulb: My Reseach Interest:<b>
+				<b>My Reseach Interest:<b>
 				<ul>
 					<li>Network Automation</li>
 					<li><a href="https://github.com/ktbyers/netmiko">Netmiko</a></li>
